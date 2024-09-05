@@ -3,6 +3,13 @@ layout: post
 title: "Welcome Paco to My Blog"
 date: 2024-09-04 12:00:00 +0000
 categories: blog
+tags: welcome code
+excerpt: "Learn about advanced features in Jekyll, including custom front matter and liquid tags."
+author: "Abel Ferro"
+permalink: /welcome-paco-to-jekyll/
+published: true
+image: /assets/images/jekyll.webp
+toc: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
