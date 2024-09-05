@@ -1,11 +1,10 @@
-# backend:
-#   name: github
-#   repo: af3rr0/Jekyll-Minima # Replace with your GitHub repo
-#   branch: main # Adjust to your default branch if it's different
-#   auth_type: implicit
-#   app_id: Ov23liDIXRS7zuq2Xct7  # The Client ID from the OAuth App
 backend:
-  name: test-project
+  name: github
+  repo: af3rr0/Jekyll-Minima # Replace with your GitHub repo
+  branch: main # Adjust to your default branch if it's different
+  auth_type: implicit
+  app_id: Ov23liDIXRS7zuq2Xct7  # The Client ID from the OAuth App
+
 
 media_folder: "assets/images/uploads" # Folder where uploaded images will be stored
 public_folder: "/assets/images/uploads" # Path Jekyll will use to display uploaded images
