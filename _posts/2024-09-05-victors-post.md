@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Victor's Post
-date: 2024-09-05T15:20:00.000Z
+date: 2024-09-04 12:00:00 +0000
+categories: articles
 ---
 Test branches

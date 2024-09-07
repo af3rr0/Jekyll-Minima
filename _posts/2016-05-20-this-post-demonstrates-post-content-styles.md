@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
+slug: "post-content-styles"
+categories: articles
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
